@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/workspace/eeros-project/build",
+  "command": "/opt/ost-devel/1.0/sysroots/x86_64-pokysdk-linux/usr/bin/arm-poky-linux-gnueabi/arm-poky-linux-gnueabi-g++   -mfpu=neon -mfloat-abi=hard -mcpu=cortex-a8 -fstack-protector-strong  -D_FORTIFY_SOURCE=2 -Wformat -Wformat-security -Werror=format-security --sysroot=/opt/ost-devel/1.0/sysroots/cortexa8hf-neon-poky-linux-gnueabi --sysroot=/opt/ost-devel/1.0/sysroots/cortexa8hf-neon-poky-linux-gnueabi   -I../inc -I../src   -O2 -pipe -g -feliminate-unused-debug-types  -g   -pthread -std=gnu++17 -o CMakeFiles/template_project.dir/src/ControlSystem.cpp.o -c /workspace/eeros-project/src/ControlSystem.cpp",
+  "file": "/workspace/eeros-project/src/ControlSystem.cpp"
+},
+
+{
+  "directory": "/workspace/eeros-project/build",
+  "command": "/opt/ost-devel/1.0/sysroots/x86_64-pokysdk-linux/usr/bin/arm-poky-linux-gnueabi/arm-poky-linux-gnueabi-g++   -mfpu=neon -mfloat-abi=hard -mcpu=cortex-a8 -fstack-protector-strong  -D_FORTIFY_SOURCE=2 -Wformat -Wformat-security -Werror=format-security --sysroot=/opt/ost-devel/1.0/sysroots/cortexa8hf-neon-poky-linux-gnueabi --sysroot=/opt/ost-devel/1.0/sysroots/cortexa8hf-neon-poky-linux-gnueabi   -I../inc -I../src   -O2 -pipe -g -feliminate-unused-debug-types  -g   -pthread -std=gnu++17 -o CMakeFiles/template_project.dir/src/MyRobotSafetyProperties.cpp.o -c /workspace/eeros-project/src/MyRobotSafetyProperties.cpp",
+  "file": "/workspace/eeros-project/src/MyRobotSafetyProperties.cpp"
+},
+
+{
+  "directory": "/workspace/eeros-project/build",
+  "command": "/opt/ost-devel/1.0/sysroots/x86_64-pokysdk-linux/usr/bin/arm-poky-linux-gnueabi/arm-poky-linux-gnueabi-g++   -mfpu=neon -mfloat-abi=hard -mcpu=cortex-a8 -fstack-protector-strong  -D_FORTIFY_SOURCE=2 -Wformat -Wformat-security -Werror=format-security --sysroot=/opt/ost-devel/1.0/sysroots/cortexa8hf-neon-poky-linux-gnueabi --sysroot=/opt/ost-devel/1.0/sysroots/cortexa8hf-neon-poky-linux-gnueabi   -I../inc -I../src   -O2 -pipe -g -feliminate-unused-debug-types  -g   -pthread -std=gnu++17 -o CMakeFiles/template_project.dir/src/main.cpp.o -c /workspace/eeros-project/src/main.cpp",
+  "file": "/workspace/eeros-project/src/main.cpp"
+}
+]
